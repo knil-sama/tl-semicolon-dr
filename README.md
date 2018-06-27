@@ -5,3 +5,7 @@ Personnal tl;dr for myself and to share with colleagues
 ### Architecture 
 
 [Data Lake ingestion best Practice](./data_lake_ingestion_best_practices.md)
+
+## Link to website
+
+[here](https://knil-sama.github.io/tl-semicolon-dr)
