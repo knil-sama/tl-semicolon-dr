@@ -14,7 +14,7 @@
 
 4. Use a SINGLE schema registry, that can and MUST be accessible for everybody with evolution of schema propagated to ingestion
 
-	1. The schema can carry additional information for example to facilitate mapping to JSON or a database.=> I didn't agreed at all with this, the more infos you put that are not strictly related to the schema the more cumbersome it get
+- The schema can carry additional information for example to facilitate mapping to JSON or a database.=> I didn't agreed at all with this, the more infos you put that are not strictly related to the schema the more cumbersome it get
 
 
 5. Advocate for a pub-sub system to trigger and schedule ingestion (in opposition to cronjob and watcher)
