@@ -1,6 +1,6 @@
 ## Welcome to my tl;dr
 
-Personnal tl;dr for myself and to share with colleagues
+Personal tl;dr for myself and to share with colleagues
 
 ### Data engineering
 
