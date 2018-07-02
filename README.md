@@ -14,6 +14,10 @@ Personal tl;dr for myself and to share with colleagues
 
 [Scalable incremental data aggregation on postgres and citus](./scalable_incremental_data_aggregation_on_postgres_and_citus.md)
 
+## Python
+
+[What's new in python3.7](./news_python3.7.md)
+
 ## Link to website
 
 [here](https://knil-sama.github.io/tl-semicolon-dr)
