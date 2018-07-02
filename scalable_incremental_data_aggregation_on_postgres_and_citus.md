@@ -16,6 +16,6 @@
 
 6. Really put lot of marketing for citus perf but what we saw is still relevant for normal postgresql database
 
-# Summary
+# Afterword
 
 Would like to see this technique but with the new pub sub of postgresql

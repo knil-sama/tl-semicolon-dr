@@ -19,6 +19,6 @@
 
 5. Advocate for a pub-sub system to trigger and schedule ingestion (in opposition to cronjob and watcher)
 
-# Summary
+# Afterword
 
 Good article not too technical but tackle lot of architectural issues

@@ -25,7 +25,7 @@
 
 7. A serious data engineer is an expert coder, automating the deployment and operations of her data system(s), evolving it based on client needs via discussions around SLIs, SLOs, and SLAs.
 
-# Summary
+# Afterword
 
 Feel in sync with his definition of a DE and I recommend to read the article he mention.
 
