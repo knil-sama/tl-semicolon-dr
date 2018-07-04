@@ -19,7 +19,7 @@ partial_sums = [total := total + v for v in values]
 print("Total:", total)
 ```
 
-5. Fetching specific variables with any and all
+5. Fetching specific variables with any and all 
 ```python
 if any((comment := line).startswith('#') for line in lines):
     print("First comment:", comment)
