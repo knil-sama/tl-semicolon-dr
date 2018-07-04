@@ -18,6 +18,9 @@ Personal tl;dr for myself and to share with colleagues
 
 [What's new in python3.7](./news_python3.7.md)
 
+
+[Assignment Expression python3.8](./assignment_expressions_python3.8.md)
+
 ## Link to website
 
 [here](https://knil-sama.github.io/tl-semicolon-dr)
