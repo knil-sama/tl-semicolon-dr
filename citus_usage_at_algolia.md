@@ -13,4 +13,11 @@
 4. Clickhouse wasn't available on the cloud.
 
 5. Citus allow to perform TopN and HyperLogLog operation on a distributed database via extension, a proof of concept was done with Citus team
-# Afterword
+> Benchmark tests showed that the Citus database would be capable of ingesting up to seven million rows per second.
+> Citus Cloud enables Algolia to ingest 5-10B rows per day—and growing
+> Ninety-five percent of the queries made to our Citus database receive responses in less than 800 milliseconds
+
+6. Only one cluster in the US now, plan to open another in Europe
+
+7. Current process : raw events > aggregation job (5minutes) > rollup table > aggregation job (daily) > update rollup.  
+So Citus store only the rollup, help speed up query and lower cost

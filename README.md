@@ -14,6 +14,8 @@ Personal tl;dr for myself and to share with colleagues
 
 [Scalable incremental data aggregation on postgres and citus](./scalable_incremental_data_aggregation_on_postgres_and_citus.md)
 
+[Citus at Algolia](./citus_usage_at_algolia.md)
+
 ## Python
 
 [What's new in python3.7](./news_python3.7.md)
