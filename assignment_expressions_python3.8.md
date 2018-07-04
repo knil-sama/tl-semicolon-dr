@@ -8,7 +8,8 @@
 
 2. Simple example `group = re.match(data).group(1) if re.match(data) else None` can become 
 
-3. In comprehension list `filtered_data = [f(x) for x in data if (y := f(x)) is not None]` to `filtered_data = [y for x in data if (y := f(x)) is not None]`
+3. In comprehension list `filtered_data = [f(x) for x in data if (y := f(x)) is not None]`  
+to `filtered_data = [y for x in data if (y := f(x)) is not None]`
 
 4. For iteration of mutable 
 ```python
