@@ -13,6 +13,7 @@
 to `filtered_data = [y for x in data if (y := f(x)) is not None]`
 
 4. For iteration of mutable 
+
 ```python
 # Compute partial sums in a list comprehension
 total = 0
@@ -21,6 +22,7 @@ print("Total:", total)
 ```
 
 5. Fetching specific variables with any and all 
+
 ```python
 if any((comment := line).startswith('#') for line in lines):
     print("First comment:", comment)
@@ -33,7 +35,8 @@ else:
     print("First non-blank line:", nonblank)
 ```
 
-6. Another example with while
+6. Another example with while  
+
 ```python
 # Loop-and-a-half
 while (command := input("> ")) != "quit":
