@@ -6,7 +6,8 @@
 
 1. This is a proposal for creating a way to assign to variables within an expression using the notation NAME := expr.
 
-2. Simple example `group = re.match(data).group(1) if re.match(data) else None` can become 
+2. Simple example `group = re.match(data).group(1) if re.match(data) else None` can become  
+`group = matched.group(1) if matched := re.match(data) else None`
 
 3. In comprehension list `filtered_data = [f(x) for x in data if (y := f(x)) is not None]`  
 to `filtered_data = [y for x in data if (y := f(x)) is not None]`
