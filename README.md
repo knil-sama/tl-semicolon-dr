@@ -18,10 +18,11 @@ Personal tl;dr for myself and to share with colleagues
 
 ## Python
 
-[What's new in python3.7](./news_python3.7.md)
+[What's new in python3.7](./news_python3.7.md)  
 
+[Assignment Expression python3.8](./assignment_expressions_python3.8.md)  
 
-[Assignment Expression python3.8](./assignment_expressions_python3.8.md)
+[Toward Pandas 1.0](./toward_pandas_1.0.md)  
 
 ## Link to website
 
