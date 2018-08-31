@@ -4,15 +4,15 @@
 
 # tl;dr
 
-..* This is a proposal for creating a way to assign to variables within an expression using the notation NAME := expr.
+⋅⋅* This is a proposal for creating a way to assign to variables within an expression using the notation NAME := expr.
 
-..* Simple example `group = re.match(data).group(1) if re.match(data) else None` can become  
+⋅⋅* Simple example `group = re.match(data).group(1) if re.match(data) else None` can become  
 `group = matched.group(1) if matched := re.match(data) else None`
 
-..* In comprehension list `filtered_data = [f(x) for x in data if (y := f(x)) is not None]`  
+⋅⋅* In comprehension list `filtered_data = [f(x) for x in data if (y := f(x)) is not None]`  
 to `filtered_data = [y for x in data if (y := f(x)) is not None]`
 
-..* For iteration of mutable 
+⋅⋅* For iteration of mutable 
 
 ```python
 # Compute partial sums in a list comprehension
@@ -21,7 +21,7 @@ partial_sums = [total := total + v for v in values]
 print("Total:", total)
 ```
 
-..* Fetching specific variables with any and all 
+⋅⋅* Fetching specific variables with any and all 
 
 ```python
 if any((comment := line).startswith('#') for line in lines):
@@ -35,7 +35,7 @@ else:
     print("First non-blank line:", nonblank)
 ```
 
-..* Another example with while  
+⋅⋅* Another example with while  
 
 ```python
 # Loop-and-a-half
@@ -43,7 +43,7 @@ while (command := input("> ")) != "quit":
     print("You entered:", command)
 ```
 
-..* Top level assignement is not valid, `y := f(x)` will not work
+⋅⋅* Top level assignement is not valid, `y := f(x)` will not work
 
 # Afterword
 
