@@ -4,11 +4,11 @@
 
 # tl;dr
 
-+ [Integration with scikit-learn](https://youtu.be/kUloTjPPgzU?list=WL&t=1653), sklearn.compose can be use to create column transformer to be integrated in sklearn.pipeline.
++ [Integration with scikit-learn](https://youtu.be/kUloTjPPgzU?list=WL&t=1653), sklearn.compose can be used to create column transformer to be integrated in sklearn.pipeline.
 
 + [Extending pandas](https://youtu.be/kUloTjPPgzU?list=WL&t=1389) cyberpanda [official repo](https://github.com/ContinuumIO/cyberpandas) example of using extending pandas (http://pandas-docs.github.io/pandas-docs-travis/extending.html#extension-types).
 
-+ [Fletcher use](https://youtu.be/kUloTjPPgzU?list=WL&t=1551), another example of a [tool](https://github.com/xhochy/fletcher) using extensionArray interface that allow to use arrow columns in pandas dataframe with multiple benefits (debug information, random data generation, etc ...)
++ [Fletcher use](https://youtu.be/kUloTjPPgzU?list=WL&t=1551), another example of a [tool](https://github.com/xhochy/fletcher) using extensionArray interface that allows to use arrow columns in pandas dataframe with multiple benefits (debug information, random data generation, etc ...)
 
 ```python
 import fletcher as fr
