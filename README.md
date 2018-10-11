@@ -24,6 +24,10 @@ Personal tl;dr for myself and to share with colleagues
 
 [Toward Pandas 1.0](./toward_pandas_1.0.md)  
 
+## Others
+
+[Developper advocacy](tech_lunch_algolia_24.md)
+
 ## Link to website
 
 [here](https://knil-sama.github.io/tl-semicolon-dr)
