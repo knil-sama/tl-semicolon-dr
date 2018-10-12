@@ -12,7 +12,7 @@ Tech lunch 24 by Algolia on Developer advocacy
  
 + They talk mostly about and to, the Product, the dev team and community of users
 
-## Speaker Laurent Doguin, VP Developer Relations at Clever Cloud
+## Speaker Laurent Doguin, VP Developer Relations at Clever Cloud [https://www.youtube.com/watch?v=zG6qNGxr5i4&index=2&list=PLuHdbqhRgWHIosfqQ-9whwXzN5sgY7NAk](talk)
 
 + Developer advocate discuss with their audience (in opposition to evangelist that have a speech)
 
@@ -26,7 +26,7 @@ Tech lunch 24 by Algolia on Developer advocacy
 
 + Really try to establish a connection with people and not to sell anything (tech person don't take the bait)
 
-## Speaker Noël Macé, Developer Advocate at SFEIR 
+## Speaker Noël Macé, Developer Advocate at SFEIR [https://www.youtube.com/watch?v=NrmqjIR9GEk&list=PLuHdbqhRgWHIosfqQ-9whwXzN5sgY7NAk](talk)
 
 + Even if you don't have a product or a service to promote, like SFEIR that is an ESN you can focus on making your ecosystem better to help the company
 
