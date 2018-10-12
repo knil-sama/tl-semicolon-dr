@@ -39,4 +39,4 @@ Tech lunch 24 by Algolia on Developer advocacy
 I understand that this specific role is created for a people that at the junction of tech lead (good knowledge of product and dev organization) and a spokesperson (great at public speaking, enthusiastic).  
 Some of the tasks can fit into a tech lead or a senior dev in the organization but at some scale, you can't expect him/her to still do all of this and programming.  
 You are not here to sell but to promote, what you promote is tied to your company and your own interests.  
-I am glad to see another carreer path outside the classic pattern of tech lead or manager that are often suggested for developer.
+I am glad to see another carreer path outside the classic pattern of tech lead or manager that are often suggested for developer
