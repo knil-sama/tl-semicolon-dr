@@ -18,4 +18,5 @@
 
 # Afterword
 
-This article resume lot of the issue we run into when setting up our own kafka cluster on kubernetes, I would add to this than vpc access and monitoring should be one of your big priority in our case datadog wasn't working as expected and the combo (jvmx + prometheus + grafana) help us tremendously to figure out what happen, also apart from broker, connector and zookeper are more easier to deploy on kubernetes due to them having part of their state distributed on broker
+This article resume lot of the issue we run into when setting up our own kafka cluster on kubernetes, I would add to this than vpc access and monitoring should be one of your big priority in our case datadog wasn't working as expected and the combo (jvmx + prometheus + grafana) help us tremendously to figure out what happen.  
+Also apart from broker, connector and zookeper are more easier to deploy on kubernetes due to them having part of their state distributed on broker
