@@ -10,6 +10,8 @@ Personal tl;dr for myself and to share with colleagues
 
 [Data Lake ingestion best Practice](./data_lake_ingestion_best_practices.md)
 
+[Kafka on kubernetes - Could you ? Should you ?](.kafka-on-kubernetes-could-you-should-you.md)
+
 ### Postgresql
 
 [Scalable incremental data aggregation on postgres and citus](./scalable_incremental_data_aggregation_on_postgres_and_citus.md)
