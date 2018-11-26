@@ -18,6 +18,9 @@ Personal tl;dr for myself and to share with colleagues
 
 [Citus at Algolia](./citus_usage_at_algolia.md)
 
+
+[BBL Architecture PostgreSQL](./bbl_architecture_postgresql.md)
+
 ## Python
 
 [What's new in python3.7](./news_python3.7.md)  
