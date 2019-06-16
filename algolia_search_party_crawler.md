@@ -6,8 +6,8 @@ The Crawling Search Party at Algolia
 
 ## The challenges of crawling the web — and how to overcome them - [Samuel Bodin](https://www.linkedin.com/in/bodinsamuel/), [Algolia](https://www.algolia.com/)
 
-+Use an ablocker when rendering crawled site to save resource and time.
-+Be carefuk with query param, to avoir rendering multiple combination rewrite url to order them.
++ Use an ablocker when rendering crawled site to save resource and time.
++ Be carefuk with query param, to avoir rendering multiple combination rewrite url to order them.
 + Put a hard limit on path concatenation to no blow up your crawler.
 + Trying to run your code in secure javascript engine will result in a huge perfomance trade off (x10).
 
@@ -20,7 +20,7 @@ The Crawling Search Party at Algolia
 
 ## Writing a distributed crawler architecture - [Nenad Tičarići](https://www.linkedin.com/in/nticaric), [TNT Studio](http://www.tntstudio.hr/)
 
-+Presentation of their open source [crawler](https://github.com/teamtnt/crawler).
++ Presentation of their open source [crawler](https://github.com/teamtnt/crawler).
 
 # Afterword
 

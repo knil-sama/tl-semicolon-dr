@@ -6,6 +6,8 @@ Personal tl;dr for myself and to share with colleagues
 
 [From just a bunch of engineers to data reliability engineering criteo labs](./from_just_a_bunch_of_engineers_to_data_reliability_engineering_criteo_labs.md)
 
+[Algolia search party : Crawler edition](.algolia_search_party_crawler.md)
+
 ### Architecture 
 
 [Data Lake ingestion best Practice](./data_lake_ingestion_best_practices.md)
