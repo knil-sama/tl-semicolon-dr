@@ -24,5 +24,5 @@ The Crawling Search Party at Algolia
 
 # Afterword
 
-
-
+So far crawling is still a difficult exercice to pull off when trying to make it work on multiple domains. 
+Semantic web is still a far away dream :p .
