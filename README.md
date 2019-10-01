@@ -2,6 +2,10 @@
 
 Personal tl;dr for myself and to share with colleagues
 
+## Link to website
+
+[here](https://knil-sama.github.io/tl-semicolon-dr)
+
 ### Data engineering
 
 [From just a bunch of engineers to data reliability engineering criteo labs](./from_just_a_bunch_of_engineers_to_data_reliability_engineering_criteo_labs.md)
@@ -34,7 +38,3 @@ Personal tl;dr for myself and to share with colleagues
 ## Others
 
 [Developper advocacy](tech_lunch_algolia_24.md)
-
-## Link to website
-
-[here](https://knil-sama.github.io/tl-semicolon-dr)
